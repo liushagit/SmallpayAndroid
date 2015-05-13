@@ -15,9 +15,9 @@ syntax: glob
 
 
 # eclipse conf file
-.settings
-.classpath
-.project
+#.settings
+#.classpath
+#.project
 .manager
 
 
